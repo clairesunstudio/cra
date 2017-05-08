@@ -1,0 +1,44 @@
+{
+  "header" : {
+    "title": "DPH Opioid Report",
+    "subtitle": "The Massachusetts Department of Public Health collects overdose death data to track the progression of the opioid crisis and target services to especially hard-hit communities. The data in this report is updated quarterly."
+  },
+  "body" :[
+    {
+      "description": "overview of the report goes here",
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum dolor sed tortor laoreet porttitor. Morbi iaculis cursus maximus. Vestibulum et nunc viverra, gravida felis ac, tincidunt massa. Suspendisse fringilla quis elit id tincidunt. Pellentesque sollicitudin massa sed diam placerat, ut porta nisl consectetur. Nunc id orci hendrerit, tempor nulla ac, ultrices arcu. Etiam id imperdiet quam, ac vehicula ipsum. Mauris tristique faucibus massa nec rhoncus. Aliquam ornare velit et diam lobortis sagittis. Curabitur at dolor quis mi hendrerit varius ac quis augue. Pellentesque augue nibh, pharetra id dui nec, sodales vehicula tortor. Vivamus non magna vitae lectus lacinia vulputate.",
+        "Aenean interdum pulvinar facilisis. Integer commodo posuere purus. Maecenas vitae ligula enim. Proin porta tellus vel odio pretium malesuada. Donec vitae mi enim. Suspendisse quis aliquet mauris, quis pharetra lorem. Fusce semper vel est imperdiet euismod."
+      ]
+    },
+    {
+      "description": "overview of the geographic data report goes here",
+      "paragraphs": [
+        "Suspendisse non tempus justo. Pellentesque malesuada lectus augue, eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit. In quis urna sollicitudin, dictum sapien sit amet, rutrum metus. Donec sed risus neque. Ut a orci ex. Morbi laoreet suscipit tortor at ullamcorper.eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit. Pellentesque malesuada lectus augue, eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the demographics goes here",
+      "paragraphs": [
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the prescription goes here",
+      "paragraphs": [
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the emergency incidents goes here",
+      "paragraphs": [
+        "County heat map with the percentages. Tooltip would have numeric value when you hover. There’s a lot of other info in that table that could be put into a sidebar and would be active if you click or search for a county (it could default to the state totals at first). Could be similar to the format for the other map.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    }
+  ]
+
+}

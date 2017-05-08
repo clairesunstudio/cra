@@ -1,0 +1,44 @@
+{
+  "header" : {
+    "title": "DPH Opioid Report",
+    "subtitle": "The Massachusetts Department of Public Health collects overdose death data to track the progression of the opioid crisis and target services to especially hard-hit communities. The data in this report is updated quarterly."
+  },
+  "body" :[
+    {
+      "description": "overview of the report goes here",
+      "paragraphs": [
+        "Vivamus molestie id tellus ac tempus. Suspendisse non volutpat tortor, vel auctor metus. Nulla eget euismod magna. Curabitur vitae pellentesque erat. Mauris placerat elit quam, non accumsan arcu commodo a. Vivamus ultrices luctus elit eget aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam purus massa, vulputate eu nibh a, condimentum mollis elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc hendrerit ante a elit porta tempus. Maecenas porttitor eros vel massa pretium fermentum. Nullam efficitur enim nec dui accumsan porta.",
+        "Aenean interdum pulvinar facilisis. Integer commodo posuere purus. Maecenas vitae ligula enim. Proin porta tellus vel odio pretium malesuada. Donec vitae mi enim. Suspendisse quis aliquet mauris, quis pharetra lorem. Fusce semper vel est imperdiet euismod."
+      ]
+    },
+    {
+      "description": "overview of the geographic data report goes here",
+      "paragraphs": [
+        "Suspendisse non tempus justo. Pellentesque malesuada lectus augue, eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit. In quis urna sollicitudin, dictum sapien sit amet, rutrum metus. Donec sed risus neque. Ut a orci ex. Morbi laoreet suscipit tortor at ullamcorper.eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit. Pellentesque malesuada lectus augue, eu blandit ex hendrerit eget. In non convallis eros. Maecenas consectetur neque a nibh faucibus blandit.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the demographics goes here",
+      "paragraphs": [
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the prescription goes here",
+      "paragraphs": [
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    },
+    {
+      "description": "overview of the emergency incidents goes here",
+      "paragraphs": [
+        "County heat map with the percentages. Tooltip would have numeric value when you hover. There’s a lot of other info in that table that could be put into a sidebar and would be active if you click or search for a county (it could default to the state totals at first). Could be similar to the format for the other map.",
+        "Tri-slider/scale showing the percentage of deaths broken down among the groups in each category (gender, age, and race). Also, it’s possible to add in the comparison to all deaths chart they have for each element in the QR."
+      ]
+    }
+  ]
+
+}
